@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Icons/KYC/Inactive/Envelope</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="KYC---Step-1-Email-Invalid" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-588.000000, -405.000000)">
+        <g id="Group-12" transform="translate(192.000000, 405.000000)">
+            <g id="Group-7">
+                <g id="Group-11" transform="translate(372.000000, 0.000000)">
+                    <g id="Icons/KYC/Inactive/Contribution" transform="translate(24.000000, 0.000000)">
+                        <g id="Group">
+                            <circle id="Oval" fill="#F4F5F7" fill-rule="nonzero" cx="24" cy="24" r="24"></circle>
+                            <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="24" cy="24" r="21.4285714"></circle>
+                        </g>
+                        <g id="bill" opacity="0.6" transform="translate(13.714286, 14.571429)">
+                            <polygon id="Shape" fill="#EEEEEE" fill-rule="nonzero" points="13.7663896 1.03084578 3.46125982 1.03084578 3.46125982 18.5638399 16.1996013 18.5638399 16.1996013 3.46394987"></polygon>
+                            <polygon id="Shape" fill="#C0C0C0" fill-rule="nonzero" points="13.7663896 3.46394987 16.1996013 3.46394987 13.7663896 1.03084578"></polygon>
+                            <rect id="Rectangle-path" fill="#D9E021" fill-rule="nonzero" x="5.65613233" y="9.10118262" width="14.068145" height="7.38587836"></rect>
+                            <rect id="Rectangle-path" fill="#8CC63F" fill-rule="nonzero" x="12.6711592" y="9.10118262" width="7.05311813" height="7.38587836"></rect>
+                            <path d="M18.9427078,14.4352996 L18.9427078,11.1527288 C18.2304879,11.1527288 17.6530937,10.5753885 17.6530937,9.86311479 L7.72726216,9.86311479 C7.72726216,10.5753347 7.1499218,11.1527288 6.43764812,11.1527288 L6.43764812,14.4352996 C7.149868,14.4352996 7.72726216,15.0126399 7.72726216,15.7249136 L17.6531475,15.7249136 C17.6530937,15.0126399 18.2304879,14.4352996 18.9427078,14.4352996 Z" id="Shape" fill="#60C344" fill-rule="nonzero"></path>
+                            <path d="M17.6530937,9.86316859 L12.671213,9.86316859 L12.671213,15.7249136 L17.6530937,15.7249136 C17.6530937,15.0126937 18.2304341,14.4352996 18.9427078,14.4352996 L18.9427078,11.1527288 C18.2304879,11.1527288 17.6530937,10.5753347 17.6530937,9.86316859 Z" id="Shape" fill="#47AB4B" fill-rule="nonzero"></path>
+                            <ellipse id="Oval" fill="#D9E021" fill-rule="nonzero" cx="12.6899358" cy="12.7938797" rx="1.30914386" ry="2.23721404"></ellipse>
+                            <path d="M12.690151,10.5567733 C12.6838025,10.5567733 12.6775616,10.5574189 12.671213,10.5575803 L12.671213,15.0304481 C12.6775616,15.0306095 12.6837487,15.0312551 12.690151,15.0312551 C13.413185,15.0312551 13.9992949,14.0296388 13.9992949,12.7940411 C13.9992949,11.5583896 13.413185,10.5567733 12.690151,10.5567733 Z" id="Shape" fill="#8CC63F" fill-rule="nonzero"></path>
+                            <circle id="Oval" fill="#FF6838" fill-rule="nonzero" cx="5.11139549" cy="8.79849724" r="3.84188772"></circle>
+                            <path d="M5.11118028,4.95655572 C5.08583993,4.95655572 5.06087619,4.95795455 5.03569724,4.95843876 L5.03569724,12.6387709 C5.06087619,12.6392551 5.08583993,12.6407078 5.11118028,12.6407078 C7.23309841,12.6407078 8.95322941,10.9205768 8.95322941,8.79865865 C8.95322941,6.67674052 7.23304461,4.95655572 5.11118028,4.95655572 Z" id="Shape" fill="#AE4E32" fill-rule="nonzero"></path>
+                            <polygon id="Shape" fill="#FFFFFF" fill-rule="nonzero" points="4.29012063 11.2600622 2.43322707 9.40306099 3.38201069 8.45427736 4.29001303 9.3623873 6.84024227 6.81167385 7.7891335 7.76040368"></polygon>
+                            <polygon id="Shape" fill="#E0E0E0" fill-rule="nonzero" points="6.84024227 6.81167385 5.03569724 8.61659549 5.03569724 10.5144317 7.7891335 7.76040368"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

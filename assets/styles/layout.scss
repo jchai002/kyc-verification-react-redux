@@ -1,0 +1,41 @@
+body {
+  font-family: $font-main;
+  color: $text-1;
+}
+
+main {
+  background: linear-gradient(225deg, #473b7b 0%, #3584a7 50.91%, #30d2be 100%);
+}
+
+p {
+  font-size: 18px;
+  line-height: 27px;
+  margin-bottom: 24px;
+}
+
+.page {
+  padding: 40px 0;
+  min-height: 100vh;
+}
+
+.webcam {
+  display: flex;
+  flex-direction: column;
+  margin: $space-md auto;
+  width: 640px;
+  video,
+  img {
+    display: block;
+    width: 100% !important;
+    margin: $space-md auto;
+  }
+}
+
+.error-screen .form-intro {
+  h1 {
+    margin-bottom: $space-md;
+  }
+  p {
+    text-align: center;
+  }
+}

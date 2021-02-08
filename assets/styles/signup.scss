@@ -1,0 +1,52 @@
+.signup {
+  .form-main {
+    input {
+      width: 263px;
+    }
+  }
+  .form-intro h1 {
+    font-size: 40px;
+    line-height: 60px;
+    letter-spacing: 3px;
+    text-align: left;
+    @include media-breakpoint-down(sm) {
+      font-size: 30px;
+      line-height: 45px;
+    }
+  }
+  .social {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: $space-lg;
+    @include media-breakpoint-down(sm) {
+      align-items: flex-start;
+    }
+    p {
+      font-family: $font-alt;
+      color: $primary;
+      font-size: 18px;
+      line-height: 27px;
+      font-weight: 500;
+      text-transform: uppercase;
+    }
+    .social__links {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      a {
+        margin: 0 $space-sm;
+        img {
+          height: 40px;
+          width: 40px;
+        }
+      }
+    }
+  }
+  .check-mail p {
+    text-align: center;
+  }
+  .signup-error p {
+    margin-top: $space-lg;
+  }
+}

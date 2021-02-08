@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Icons/KYC/Inactive/Envelope</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="66.67%" y1="16.67%" x2="41.67%" y2="75%" id="linearGradient-1">
+            <stop stop-color="#37AEE2" offset="0%"></stop>
+            <stop stop-color="#1E96C8" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="KYC---Step-1-Email" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-192.000000, -405.000000)">
+        <g id="Group-12" transform="translate(192.000000, 405.000000)">
+            <g id="Group-7">
+                <g id="Group-6">
+                    <g id="Icons/KYC/Active/Envelope">
+                        <g id="Group">
+                            <circle id="Oval" fill="url(#linearGradient-1)" fill-rule="nonzero" cx="24" cy="24" r="24"></circle>
+                            <g id="mail" transform="translate(11.142857, 15.428571)" fill-rule="nonzero">
+                                <polygon id="Shape" fill="#E4E3E3" points="0 0 0 17.1428571 12.6530612 17.1428571 25.3061224 17.1428571 25.3061224 0"></polygon>
+                                <path d="M13.99293,9.04655885 C13.2531778,9.74725074 12.0533965,9.74725074 11.3131924,9.04655885 L10.3700875,8.16326531 C7.41966472,10.9559682 0,17.1428571 0,17.1428571 L9.76409621,17.1428571 L15.5424781,17.1428571 L25.3061224,17.1428571 C25.3061224,17.1428571 17.8864577,10.9559682 14.936035,8.16326531 L13.99293,9.04655885 Z" id="Shape" fill="#F6F5F3"></path>
+                                <path d="M0,0 L11.3131924,9.33300439 C12.0529446,9.95022303 13.2527259,9.95022303 13.99293,9.33300439 L25.3061224,0 L0,0 Z" id="Shape" fill="#FBFBFB"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

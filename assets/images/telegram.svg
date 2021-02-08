@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Icons/Social/Teal Gradient/Telegram</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="61.2346759%" y1="43.69%" x2="74.7064382%" y2="80.24%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="KYC---Step-4-Success" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-408.000000, -650.000000)">
+        <g id="Group-17" transform="translate(399.000000, 607.000000)">
+            <g id="Group-13" transform="translate(9.000000, 43.000000)">
+                <g id="Icons/Social/Teal-Gradient/Telegram">
+                    <circle id="Oval" fill="#FFFFFF" cx="20" cy="20" r="15"></circle>
+                    <circle id="Oval-2" fill="#473B7B" cx="20" cy="20" r="20"></circle>
+                    <g id="Group" stroke-width="1" transform="translate(8.333333, 11.666667)">
+                        <path d="M8.04292929,18.0555556 C7.40481313,18.0555556 7.51324495,17.8044674 7.29316414,17.171299 L5.41666667,10.7355121 L19.8611111,1.80555556" id="Shape" fill="#473B7B" fill-rule="nonzero"></path>
+                        <path d="M8.48803361,13.1070659 L16.5175994,19.5905769 C17.4338765,20.1431152 18.0951866,19.857038 18.3234215,18.6608484 L21.5918666,1.82774559 C21.9264982,0.36148385 21.080455,-0.30354375 20.203894,0.131388075 L1.01163783,8.21939974 C-0.29841339,8.79367742 -0.290775672,9.5924618 0.772842928,9.9483844 L5.69800856,11.6284283 L17.1002908,3.76652025 C17.6385673,3.40978106 18.1325948,3.6015717 17.727115,3.99487397" id="Shape" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+                        <path d="M8.15000057,18.5000006 C8.64242481,18.5000006 8.85999426,18.2570801 9.13484906,17.9688334 L11.7611117,15.2142 L8.48517734,13.083334" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

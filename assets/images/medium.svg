@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>Icons/Social/Teal Gradient/Telegram</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="KYC---Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="KYC---Step-4-Success" transform="translate(-520.000000, -555.000000)">
+            <g id="Group-17" transform="translate(399.000000, 512.000000)">
+                <g id="Group-13" transform="translate(9.000000, 43.000000)">
+                    <g id="Icons/Social/Teal-Gradient/Telegram" transform="translate(112.000000, 0.000000)">
+                        <circle id="Oval" fill="#FFFFFF" cx="20" cy="20" r="15"></circle>
+                        <path d="M0,20 C0,8.95375 8.95375,0 20,0 C31.045,0 40,8.95375 40,20 C40,31.045 31.045,40 20,40 C8.95375,40 0,31.045 0,20 Z M31.19875,13.845 L23.99875,10.245 C23.96625,10.22875 23.93,10.22125 23.895,10.22 C23.8925,10.22 23.89,10.21875 23.8875,10.21875 C23.8,10.21875 23.7125,10.2625 23.66625,10.33875 L19.22875,17.55 L24.1825,25.6 L31.26875,14.085 C31.32,14.00125 31.28875,13.89 31.19875,13.845 Z M16.88125,15.01625 L16.88125,22.7875 L23.78875,26.24 L16.88125,15.01625 Z M24.3925,26.5375 L30.735,29.70875 C31.08125,29.88125 31.365,29.70625 31.365,29.32 L31.365,15.2075 L24.3925,26.5375 Z M16.11875,13.88125 L9.475,10.56 L9.055,10.35 C8.995,10.32 8.9375,10.305 8.885,10.305 C8.81125,10.305 8.74875,10.33375 8.70375,10.3875 C8.66125,10.44 8.635,10.515 8.635,10.60875 L8.635,25.77125 C8.635,26.02875 8.82375,26.335 9.055,26.45 L15.5825,29.71375 C15.67375,29.75875 15.76,29.78 15.8375,29.78 C16.0575,29.78 16.21125,29.61 16.21125,29.32375 L16.21125,14.0325 C16.2125,13.96875 16.17625,13.91 16.11875,13.88125 Z" id="Combined-Shape" fill="#473B7B"></path>
+                        <g id="Group" transform="translate(3.333333, 8.333333)"></g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Icons/KYC/Inactive/Envelope</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="66.67%" y1="16.67%" x2="41.67%" y2="75%" id="linearGradient-1">
+            <stop stop-color="#37AEE2" offset="0%"></stop>
+            <stop stop-color="#1E96C8" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="KYC---ID-Verification---Failed-Try" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-779.000000, -298.000000)">
+        <g id="Group-12" transform="translate(192.000000, 298.000000)">
+            <g id="Group-7">
+                <g id="Group-10" transform="translate(581.000000, 0.000000)">
+                    <g id="Icons/KYC/Active/Fail" transform="translate(6.000000, 0.000000)">
+                        <g id="Group">
+                            <circle id="Oval" fill="url(#linearGradient-1)" fill-rule="nonzero" cx="24" cy="24" r="24"></circle>
+                            <g id="x-button" transform="translate(12.857143, 12.857143)" fill-rule="nonzero">
+                                <circle id="Oval" fill="#E21B1B" cx="11.1428571" cy="11.1428571" r="11.1428571"></circle>
+                                <path d="M22.2108482,12.4183661 L16.0140268,6.22154464 L6.5398125,16.0443214 L12.6739554,22.1784643 C17.6871964,21.489 21.63525,17.4667768 22.2108482,12.4183661 Z" id="Shape" fill="#C40606"></path>
+                                <g id="Group" transform="translate(6.093750, 5.963170)" fill="#FFFFFF">
+                                    <path d="M9.33109821,10.2085982 C9.10824107,10.2085982 8.88573214,10.1236339 8.71545536,9.95370536 L0.278919643,1.51682143 C-0.0612857143,1.17661607 -0.0612857143,0.625741071 0.278919643,0.285883929 C0.619125,-0.0539732143 1.17,-0.0543214286 1.50985714,0.285883929 L9.94674107,8.72276786 C10.2869464,9.06297321 10.2869464,9.61384821 9.94674107,9.95370536 C9.77646429,10.1236339 9.55395536,10.2085982 9.33109821,10.2085982 Z" id="Shape"></path>
+                                    <path d="M0.894214286,10.2085982 C0.671357143,10.2085982 0.448848214,10.1236339 0.278571429,9.95370536 C-0.0616339286,9.6135 -0.0616339286,9.062625 0.278571429,8.72276786 L8.71545536,0.285883929 C9.05566071,-0.0543214286 9.60653571,-0.0543214286 9.94639286,0.285883929 C10.28625,0.626089286 10.2865982,1.17696429 9.94639286,1.51682143 L1.50985714,9.95370536 C1.33992857,10.1236339 1.11707143,10.2085982 0.894214286,10.2085982 Z" id="Shape"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>Icons/Color/Checkmark</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="KYC---Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="KYC---ID-Verification---Verification-Completed-During-Crowdsale" transform="translate(-301.000000, -406.000000)">
+            <g id="Group-3" transform="translate(301.000000, 406.000000)">
+                <g id="Icons/Color/Checkmark">
+                    <g id="checked">
+                        <circle id="Oval" fill="#44DD4B" fill-rule="nonzero" cx="17.9716535" cy="17.9716535" r="17.9716535"></circle>
+                        <path d="M13.3795276,26.0787402 L22.6204724,35.319685 C30.2740157,33.2787402 35.9433071,26.3055118 35.9433071,17.9716535 C35.9433071,17.8015748 35.9433071,17.6314961 35.9433071,17.4614173 L28.6866142,10.7716535 L13.3795276,26.0787402 Z" id="Shape" fill="#26842B" fill-rule="nonzero"></path>
+                        <g id="Group" transform="translate(6.023622, 8.858268)" fill="#FFFFFF" fill-rule="nonzero">
+                            <path d="M12.4015748,13.1385827 C13.1952756,13.9322835 13.1952756,15.2929134 12.4015748,16.0866142 L10.7574803,17.7307087 C9.96377953,18.5244094 8.60314961,18.5244094 7.80944882,17.7307087 L0.609448819,10.4740157 C-0.184251969,9.68031496 -0.184251969,8.31968504 0.609448819,7.52598425 L2.25354331,5.88188976 C3.04724409,5.08818898 4.40787402,5.08818898 5.2015748,5.88188976 L12.4015748,13.1385827 Z" id="Shape"></path>
+                            <path d="M18.6944882,0.609448819 C19.488189,-0.184251969 20.8488189,-0.184251969 21.6425197,0.609448819 L23.2866142,2.25354331 C24.080315,3.04724409 24.080315,4.40787402 23.2866142,5.2015748 L10.8141732,17.6173228 C10.0204724,18.4110236 8.65984252,18.4110236 7.86614173,17.6173228 L6.22204724,15.9732283 C5.42834646,15.1795276 5.42834646,13.8188976 6.22204724,13.0251969 L18.6944882,0.609448819 Z" id="Shape"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
